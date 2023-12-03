@@ -27,7 +27,7 @@
   <img height="30" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt="mssql">
   </p>
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=mertomgen&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mertomgen&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  [![Stats](https://github-readme-stats.vercel.app/api?username=mertomgen&show_icons=true&theme=one_dark_pro)](https://github-readme-stats.vercel.app/api?username=mertomgen&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 <p align="left">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertomgen&layout=compact&hide=html&theme=dark" alt="mertomgen" />
