@@ -5,10 +5,9 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working at <strong><a href="https://www.obilet.com/">Obilet</a></strong> as a Software Developer in Istanbul, Turkey</li>
+<li>🔭 I’m a Software Developer in Istanbul, Turkey</li>
 <li>🧐 I'm diving into Web Development, exploring the realms of Machine Learning, dabbling a bit in Game Development, and occasionally peeking into the world of blockchain! 🚀</li>
 <li>💬 Ping me about <strong>C#, Vue, Unity, and API stuff</strong>.</li>
-<li>😄 Pronouns: <strong>He / Him</strong> </li>
 </ul>
   
   #### 📫 How to reach me:
