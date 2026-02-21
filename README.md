@@ -44,11 +44,11 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertomgen&show_icons=true&theme=one_dark_pro" alt="Mert's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertomgen&layout=compact&hide=html&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertomgen&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true" alt="Trophies" />
-</p>
+[![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertomgen&show_icons=true&theme=one_dark_pro)](https://github.com/mertomgen)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertomgen&layout=compact&hide=html&theme=dark)](https://github.com/mertomgen)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mertomgen&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/mertomgen)
+
+</div>
